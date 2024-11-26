@@ -1,2 +1,9 @@
-requests
-langchain
+pandas
+# requests
+# matplotlib
+# seaborn
+# plotly
+jupyter
+# langchain
+langchain-community
+faiss-cpu
