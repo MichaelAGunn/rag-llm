@@ -1,9 +1,10 @@
 pandas
-# requests
-# matplotlib
-# seaborn
-# plotly
+matplotlib
 jupyter
-# langchain
 langchain-community
-faiss-cpu
+langchain-openai
+langchain_chroma
+langchain_core
+langchainhub
+langchain
+tiktoken
