@@ -1,0 +1,67 @@
+book,chapters,verses,avg verse per chapter,testament,category,author,abbreviation
+Genesis,50,1533,31,old,law,Moses,Gen
+Exodus,40,1213,30,old,law,Moses,Exod
+Leviticus,27,859,32,old,law,Moses,Lev
+Numbers,36,1288,36,old,law,Moses,Num
+Deuteronomy,34,959,28,old,law,Moses,Deut
+Joshua,24,658,27,old,prophet,Joshua,Josh
+Judges,21,618,29,old,prophet,Samuel,Judg
+Ruth,4,85,21,old,writing,Samuel,Ruth
+1 Samuel,31,810,26,old,prophet,Nathan,1Sam
+2 Samuel,24,695,29,old,prophet,Nathan,2Sam
+1 Kings,22,816,37,old,prophet,Jeremiah,1Kgs
+2 Kings,25,719,29,old,prophet,Jeremiah,2Kgs
+1 Chronicles,29,942,32,old,writing,Ezra,1Chr
+2 Chronicles,36,822,23,old,writing,Ezra,2Chr
+Ezra,10,280,28,old,writing,Ezra,Ezra
+Nehemiah,13,406,31,old,writing,Ezra,Neh
+Esther,10,167,17,old,writing,Mordecai,Esth
+Job,42,1070,25,old,writing,Anonymous,Job
+Psalms,150,2461,16,old,writing,Various,Ps
+Proverbs,31,915,29,old,writing,Solomon,Prov
+Ecclesiastes,12,222,18,old,writing,Solomon,Eccl
+Song of Songs,8,117,15,old,writing,Solomon,Song
+Isaiah,66,1292,20,old,prophet,Isaiah,Isa
+Jeremiah,52,1364,26,old,prophet,Jeremiah,Jer
+Lamentations,5,154,31,old,prophet,Jeremiah,Lam
+Ezekiel,48,1273,26,old,prophet,Ezekiel,Ezek
+Daniel,12,357,30,old,prophet,Daniel,Dan
+Hosea,14,197,14,old,prophet,Hosea,Hos
+Joel,3,73,24,old,prophet,Joel,Joel
+Amos,9,146,16,old,prophet,Amos,Amos
+Obadiah,1,21,21,old,prophet,Obadiah,Obad
+Jonah,4,48,12,old,prophet,Jonah,Jonah
+Micah,7,105,15,old,prophet,Micah,Mic
+Nahum,3,47,16,old,prophet,Nahum,Nah
+Habakkuk,3,56,19,old,prophet,Habakkuk,Hab
+Zephaniah,3,53,18,old,prophet,Zephaniah,Zeph
+Haggai,2,38,19,old,prophet,Haggai,Hag
+Zechariah,14,211,15,old,prophet,Zechariah,Zech
+Malachi,4,55,14,old,prophet,Malachi,Mal
+Matthew,28,1071,38,new,gospel,Matthew,Matt
+Mark,16,678,42,new,gospel,Mark,Mark
+Luke,24,1151,48,new,gospel,Luke,Luke
+John,21,879,42,new,gospel,John,John
+Acts,28,1007,36,new,gospel,Luke,Acts
+Romans,16,433,27,new,epistle,Paul,Rom
+1 Corinthians,16,437,27,new,epistle,Paul,1Cor
+2 Corinthians,13,257,20,new,epistle,Paul,2Cor
+Galatians,6,149,25,new,epistle,Paul,Gal
+Ephesians,6,155,26,new,epistle,Paul,Eph
+Philippians,4,104,26,new,epistle,Paul,Phil
+Colossians,4,95,24,new,epistle,Paul,Col
+1 Thessalonians,5,89,18,new,epistle,Paul,1Thess
+2 Thessalonians,3,47,16,new,epistle,Paul,2Thess
+1 Timothy,6,113,19,new,epistle,Paul,1Tim
+2 Timothy,4,83,21,new,epistle,Paul,2Tim
+Titus,3,46,15,new,epistle,Paul,Titus
+Philemon,1,25,25,new,epistle,Paul,Phlm
+Hebrews,13,303,23,new,epistle,Anonymous,Heb
+James,5,108,22,new,epistle,James,Jas
+1 Peter,5,105,21,new,epistle,Peter,1Pet
+2 Peter,3,61,20,new,epistle,Peter,2Pet
+1 John,5,105,21,new,epistle,John,1John
+2 John,1,13,13,new,epistle,John,2John
+3 John,1,14,14,new,epistle,John,3John
+Jude,1,25,25,new,epistle,Jude,Jude
+Revelation,22,404,18,new,revelation,John,Rev
